@@ -1,0 +1,55 @@
+commit 63de1d8bffb8f10b9bc1c564df227721c582d5de
+Author: Mesut Kartal <mesutkartal1993@gmail.com>
+Date:   Sat May 27 00:42:01 2023 +0100
+
+    Revert "removing last line from verse_1"
+    
+    This reverts commit 36797dac140b254ef39323b4439657ce578d3bfc.
+
+commit 36797dac140b254ef39323b4439657ce578d3bfc
+Author: Mesut Kartal <mesutkartal1993@gmail.com>
+Date:   Sat May 27 00:22:38 2023 +0100
+
+    removing last line from verse_1
+
+commit 7560930348dd0599a4886d5890b050a5cb45a242
+Author: Mesut Kartal <mesutkartal1993@gmail.com>
+Date:   Sat May 27 00:02:37 2023 +0100
+
+    adding one line to verse_1
+
+commit 7fb93f7fb75935974387c75f2b67428e513459d7
+Author: Mesut Kartal <mesutkartal1993@gmail.com>
+Date:   Sat May 27 00:01:03 2023 +0100
+
+     removing one line from verse_1
+
+commit e93c32ae6ced20daa8330994d04b58b034b892a1
+Author: Mesut Kartal <mesutkartal1993@gmail.com>
+Date:   Fri May 26 23:59:31 2023 +0100
+
+    added verse_4
+
+commit 06be3f698e54257fe7b3bc9ea367912f5554878e
+Author: Mesut Kartal <mesutkartal1993@gmail.com>
+Date:   Fri May 26 23:57:33 2023 +0100
+
+    added verse_3
+
+commit f26026486e4125aaaa81c822f58dd4a3bef32433
+Author: Mesut Kartal <mesutkartal1993@gmail.com>
+Date:   Fri May 26 23:55:09 2023 +0100
+
+    added verse_2
+
+commit c1efe091621126ccd1cec1c1f61ee6977ded3c9d
+Author: Mesut Kartal <mesutkartal1993@gmail.com>
+Date:   Fri May 26 23:51:31 2023 +0100
+
+    added verse_1
+
+commit 3ba84ee3cd46c5f706ebdd211d413cc47deed79c
+Author: Mesut Kartal <mesutkartal1993@gmail.com>
+Date:   Fri May 26 23:47:46 2023 +0100
+
+    added favorite song
